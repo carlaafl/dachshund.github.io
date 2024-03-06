@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&family=Questrial&display=swap');
+nav{
+    background-color: #FFCAD4;
+}
+
+.acordeon button{
+    background-color: #FFCAD4;
+}
+.acordeon p{
+    text-align: justify;
+    justify-content: left;
+    color: cornflowerblue;
+    size: 20px;
+    font-family: "Questrial", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 10px;
+}
+.acordeon h2{
+    text-align: center;
+    justify-content: center;
+    size: 30px;
+    font-family: "Questrial", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.subtitulo{
+    display: flex;
+  justify-content: center;
+  background-color: #CFE2FF;
+  padding: 20px;
+  margin: 20px;
+
+}
+
+.subtitulo h1{
+    color: #F2F2F2;
+    font-family: "Questrial", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.row{
+    background-color: #FFCAD4;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 10px;
+    padding: 20px;
+}
+
+.row .col{
+    padding: 20px;
+    align-items: center;
+    border: 10px;
+    margin: 10px;
+}
+
+.row img{
+    width: 100%;
+    border-radius: 50%;
+}
+
+.row h1{
+    color: #F2F2F2;
+    font-family: "Questrial", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+.row p{
+    font-family: "Questrial", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: justify;
+}
